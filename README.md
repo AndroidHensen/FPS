@@ -8,9 +8,9 @@
 
 #### 游戏操作
 
-wasd：移动
-space：跳跃
-qe：转向
+* wasd：移动
+* space：跳跃
+* qe：转向
 
 #### 知识点
 
@@ -20,15 +20,9 @@ qe：转向
 
 #### 素材
 
-爱给素材网
-http://www.aigei.com/
-OepnGameArt
-https://opengameart.org/
-Kenney
-https://www.kenney.nl/
-Ludum Dare
-https://ldjam.com/
-itch.io
-https://itch.io/
-花瓣
-https://huaban.com/
+* 爱给素材网：http://www.aigei.com/
+* OepnGameArt：https://opengameart.org/
+* Kenney：https://www.kenney.nl/
+* Ludum Dare：https://ldjam.com/
+* itch.io：https://itch.io/
+* 花瓣：https://huaban.com/
