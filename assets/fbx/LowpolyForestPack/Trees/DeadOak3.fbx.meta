@@ -1,0 +1,76 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0899519a-f82e-47fd-b1cd-6eac491809e5",
+  "files": [],
+  "subMetas": {
+    "2efc5": {
+      "importer": "gltf-mesh",
+      "uuid": "0899519a-f82e-47fd-b1cd-6eac491809e5@2efc5",
+      "displayName": "",
+      "id": "2efc5",
+      "name": "Icosphere.002.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "20b9a": {
+      "importer": "gltf-material",
+      "uuid": "0899519a-f82e-47fd-b1cd-6eac491809e5@20b9a",
+      "displayName": "",
+      "id": "20b9a",
+      "name": "DeadOakTreeTrunk.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "aba09": {
+      "importer": "gltf-scene",
+      "uuid": "0899519a-f82e-47fd-b1cd-6eac491809e5@aba09",
+      "displayName": "",
+      "id": "aba09",
+      "name": "DeadOak3.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "0899519a-f82e-47fd-b1cd-6eac491809e5@aba09",
+    "assetFinder": {
+      "meshes": [
+        "0899519a-f82e-47fd-b1cd-6eac491809e5@2efc5"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "0899519a-f82e-47fd-b1cd-6eac491809e5@20b9a"
+      ],
+      "scenes": [
+        "0899519a-f82e-47fd-b1cd-6eac491809e5@aba09"
+      ]
+    }
+  }
+}

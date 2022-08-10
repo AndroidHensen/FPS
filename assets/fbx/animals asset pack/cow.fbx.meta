@@ -1,0 +1,2008 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "10789": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@10789",
+      "displayName": "",
+      "id": "10789",
+      "name": "WGT-rig_front_thigh_ik_target.002-34.mesh",
+      "userData": {
+        "gltfIndex": 34
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "30732": {
+      "importer": "gltf-skeleton",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@30732",
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 261
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "32749": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@32749",
+      "displayName": "",
+      "id": "32749",
+      "name": "WGT-rig_hips.002-14.mesh",
+      "userData": {
+        "gltfIndex": 14
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "71705": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@71705",
+      "displayName": "",
+      "id": "71705",
+      "name": "WGT-rig_spine_fk.014-5.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7fbf7": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@7fbf7",
+      "displayName": "",
+      "id": "7fbf7",
+      "name": "Sphere-0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "782d8": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@782d8",
+      "displayName": "",
+      "id": "782d8",
+      "name": "Plane-1.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4083c": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@4083c",
+      "displayName": "",
+      "id": "4083c",
+      "name": "WGT-rig_spine_fk.011-2.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "087e3": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@087e3",
+      "displayName": "",
+      "id": "087e3",
+      "name": "WGT-rig_spine_fk.012-3.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9b11a": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@9b11a",
+      "displayName": "",
+      "id": "9b11a",
+      "name": "WGT-rig_spine_fk.013-4.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a22b7": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@a22b7",
+      "displayName": "",
+      "id": "a22b7",
+      "name": "WGT-rig_spine_fk.015-6.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0b144": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@0b144",
+      "displayName": "",
+      "id": "0b144",
+      "name": "WGT-rig_tweak_spine.022-7.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ce2bf": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@ce2bf",
+      "displayName": "",
+      "id": "ce2bf",
+      "name": "WGT-rig_tweak_spine.023-8.mesh",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e1946": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@e1946",
+      "displayName": "",
+      "id": "e1946",
+      "name": "WGT-rig_tweak_spine.024-9.mesh",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "078e5": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@078e5",
+      "displayName": "",
+      "id": "078e5",
+      "name": "WGT-rig_tweak_spine.025-10.mesh",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "03a8c": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@03a8c",
+      "displayName": "",
+      "id": "03a8c",
+      "name": "WGT-rig_tweak_spine.026-11.mesh",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a742c": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@a742c",
+      "displayName": "",
+      "id": "a742c",
+      "name": "WGT-rig_tweak_spine.027-12.mesh",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7b28c": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@7b28c",
+      "displayName": "",
+      "id": "7b28c",
+      "name": "WGT-rig_torso.002-13.mesh",
+      "userData": {
+        "gltfIndex": 13
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f7387": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@f7387",
+      "displayName": "",
+      "id": "f7387",
+      "name": "WGT-rig_chest.002-15.mesh",
+      "userData": {
+        "gltfIndex": 15
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "844e1": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@844e1",
+      "displayName": "",
+      "id": "844e1",
+      "name": "WGT-rig_spine.008-16.mesh",
+      "userData": {
+        "gltfIndex": 16
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0952b": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@0952b",
+      "displayName": "",
+      "id": "0952b",
+      "name": "WGT-rig_spine.009-17.mesh",
+      "userData": {
+        "gltfIndex": 17
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4bec": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@e4bec",
+      "displayName": "",
+      "id": "e4bec",
+      "name": "WGT-rig_spine.010-18.mesh",
+      "userData": {
+        "gltfIndex": 18
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2fdb3": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@2fdb3",
+      "displayName": "",
+      "id": "2fdb3",
+      "name": "WGT-rig_spine.011-19.mesh",
+      "userData": {
+        "gltfIndex": 19
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5a6e4": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@5a6e4",
+      "displayName": "",
+      "id": "5a6e4",
+      "name": "WGT-rig_tweak_spine.028-20.mesh",
+      "userData": {
+        "gltfIndex": 20
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f3a0c": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@f3a0c",
+      "displayName": "",
+      "id": "f3a0c",
+      "name": "WGT-rig_tweak_spine.029-21.mesh",
+      "userData": {
+        "gltfIndex": 21
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8a887": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@8a887",
+      "displayName": "",
+      "id": "8a887",
+      "name": "WGT-rig_tweak_spine.030-22.mesh",
+      "userData": {
+        "gltfIndex": 22
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6d2b8": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@6d2b8",
+      "displayName": "",
+      "id": "6d2b8",
+      "name": "WGT-rig_tweak_spine.031-23.mesh",
+      "userData": {
+        "gltfIndex": 23
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e6b0c": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@e6b0c",
+      "displayName": "",
+      "id": "e6b0c",
+      "name": "WGT-rig_spine_master.002-24.mesh",
+      "userData": {
+        "gltfIndex": 24
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ad097": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@ad097",
+      "displayName": "",
+      "id": "ad097",
+      "name": "WGT-rig_breast.002-25.mesh",
+      "userData": {
+        "gltfIndex": 25
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cf4f3": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@cf4f3",
+      "displayName": "",
+      "id": "cf4f3",
+      "name": "WGT-rig_breast.002-26.mesh",
+      "userData": {
+        "gltfIndex": 26
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "197e0": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@197e0",
+      "displayName": "",
+      "id": "197e0",
+      "name": "WGT-rig_shoulder.002-27.mesh",
+      "userData": {
+        "gltfIndex": 27
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "72f81": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@72f81",
+      "displayName": "",
+      "id": "72f81",
+      "name": "WGT-rig_front_thigh_parent.002-28.mesh",
+      "userData": {
+        "gltfIndex": 28
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "da5b3": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@da5b3",
+      "displayName": "",
+      "id": "da5b3",
+      "name": "WGT-rig_front_thigh_fk.002-29.mesh",
+      "userData": {
+        "gltfIndex": 29
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2ab60": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@2ab60",
+      "displayName": "",
+      "id": "2ab60",
+      "name": "WGT-rig_front_shin_fk.002-30.mesh",
+      "userData": {
+        "gltfIndex": 30
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dfcb0": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@dfcb0",
+      "displayName": "",
+      "id": "dfcb0",
+      "name": "WGT-rig_front_foot_fk.002-31.mesh",
+      "userData": {
+        "gltfIndex": 31
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ef762": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@ef762",
+      "displayName": "",
+      "id": "ef762",
+      "name": "WGT-rig_front_toe.002-32.mesh",
+      "userData": {
+        "gltfIndex": 32
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a0c7c": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@a0c7c",
+      "displayName": "",
+      "id": "a0c7c",
+      "name": "WGT-rig_front_thigh_ik.002-33.mesh",
+      "userData": {
+        "gltfIndex": 33
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cf0a4": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@cf0a4",
+      "displayName": "",
+      "id": "cf0a4",
+      "name": "WGT-rig_front_foot_ik.001-35.mesh",
+      "userData": {
+        "gltfIndex": 35
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c7759": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@c7759",
+      "displayName": "",
+      "id": "c7759",
+      "name": "WGT-rig_VIS_front_thigh_ik_pole.002-36.mesh",
+      "userData": {
+        "gltfIndex": 36
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b7bdf": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@b7bdf",
+      "displayName": "",
+      "id": "b7bdf",
+      "name": "WGT-rig_front_thigh_tweak.004-37.mesh",
+      "userData": {
+        "gltfIndex": 37
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1d133": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@1d133",
+      "displayName": "",
+      "id": "1d133",
+      "name": "WGT-rig_front_thigh_tweak.005-38.mesh",
+      "userData": {
+        "gltfIndex": 38
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7ae76": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@7ae76",
+      "displayName": "",
+      "id": "7ae76",
+      "name": "WGT-rig_front_shin_tweak.004-39.mesh",
+      "userData": {
+        "gltfIndex": 39
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f41f0": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@f41f0",
+      "displayName": "",
+      "id": "f41f0",
+      "name": "WGT-rig_front_shin_tweak.005-40.mesh",
+      "userData": {
+        "gltfIndex": 40
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e1e8": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@1e1e8",
+      "displayName": "",
+      "id": "1e1e8",
+      "name": "WGT-rig_front_foot_tweak.004-41.mesh",
+      "userData": {
+        "gltfIndex": 41
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "18e83": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@18e83",
+      "displayName": "",
+      "id": "18e83",
+      "name": "WGT-rig_front_foot_tweak.005-42.mesh",
+      "userData": {
+        "gltfIndex": 42
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1d8bf": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@1d8bf",
+      "displayName": "",
+      "id": "1d8bf",
+      "name": "WGT-rig_front_toe_tweak.002-43.mesh",
+      "userData": {
+        "gltfIndex": 43
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e1b62": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@e1b62",
+      "displayName": "",
+      "id": "e1b62",
+      "name": "WGT-rig_front_foot_heel_ik.002-44.mesh",
+      "userData": {
+        "gltfIndex": 44
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2bc31": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@2bc31",
+      "displayName": "",
+      "id": "2bc31",
+      "name": "WGT-rig_shoulder.002-45.mesh",
+      "userData": {
+        "gltfIndex": 45
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e1b5": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@1e1b5",
+      "displayName": "",
+      "id": "1e1b5",
+      "name": "WGT-rig_front_thigh_parent.002-46.mesh",
+      "userData": {
+        "gltfIndex": 46
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4b4fb": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@4b4fb",
+      "displayName": "",
+      "id": "4b4fb",
+      "name": "WGT-rig_front_thigh_fk.002-47.mesh",
+      "userData": {
+        "gltfIndex": 47
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "878ed": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@878ed",
+      "displayName": "",
+      "id": "878ed",
+      "name": "WGT-rig_front_shin_fk.002-48.mesh",
+      "userData": {
+        "gltfIndex": 48
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8f18a": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@8f18a",
+      "displayName": "",
+      "id": "8f18a",
+      "name": "WGT-rig_front_foot_fk.002-49.mesh",
+      "userData": {
+        "gltfIndex": 49
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f495d": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@f495d",
+      "displayName": "",
+      "id": "f495d",
+      "name": "WGT-rig_front_toe.002-50.mesh",
+      "userData": {
+        "gltfIndex": 50
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2c7db": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@2c7db",
+      "displayName": "",
+      "id": "2c7db",
+      "name": "WGT-rig_front_thigh_ik.002-51.mesh",
+      "userData": {
+        "gltfIndex": 51
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "999ea": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@999ea",
+      "displayName": "",
+      "id": "999ea",
+      "name": "WGT-rig_front_thigh_ik_target.002-52.mesh",
+      "userData": {
+        "gltfIndex": 52
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2611e": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@2611e",
+      "displayName": "",
+      "id": "2611e",
+      "name": "WGT-rig_front_foot_ik.003-53.mesh",
+      "userData": {
+        "gltfIndex": 53
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "91a96": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@91a96",
+      "displayName": "",
+      "id": "91a96",
+      "name": "WGT-rig_VIS_front_thigh_ik_pole.002-54.mesh",
+      "userData": {
+        "gltfIndex": 54
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "47dbd": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@47dbd",
+      "displayName": "",
+      "id": "47dbd",
+      "name": "WGT-rig_front_thigh_tweak.004-55.mesh",
+      "userData": {
+        "gltfIndex": 55
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b250f": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@b250f",
+      "displayName": "",
+      "id": "b250f",
+      "name": "WGT-rig_front_thigh_tweak.005-56.mesh",
+      "userData": {
+        "gltfIndex": 56
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "19fcf": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@19fcf",
+      "displayName": "",
+      "id": "19fcf",
+      "name": "WGT-rig_front_shin_tweak.004-57.mesh",
+      "userData": {
+        "gltfIndex": 57
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4b43d": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@4b43d",
+      "displayName": "",
+      "id": "4b43d",
+      "name": "WGT-rig_front_shin_tweak.005-58.mesh",
+      "userData": {
+        "gltfIndex": 58
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "aa8bf": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@aa8bf",
+      "displayName": "",
+      "id": "aa8bf",
+      "name": "WGT-rig_front_foot_tweak.004-59.mesh",
+      "userData": {
+        "gltfIndex": 59
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "47c61": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@47c61",
+      "displayName": "",
+      "id": "47c61",
+      "name": "WGT-rig_front_foot_tweak.005-60.mesh",
+      "userData": {
+        "gltfIndex": 60
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "df6a0": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@df6a0",
+      "displayName": "",
+      "id": "df6a0",
+      "name": "WGT-rig_front_toe_tweak.002-61.mesh",
+      "userData": {
+        "gltfIndex": 61
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e9ce9": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@e9ce9",
+      "displayName": "",
+      "id": "e9ce9",
+      "name": "WGT-rig_front_foot_heel_ik.002-62.mesh",
+      "userData": {
+        "gltfIndex": 62
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c1ebf": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@c1ebf",
+      "displayName": "",
+      "id": "c1ebf",
+      "name": "WGT-rig_neck.002-63.mesh",
+      "userData": {
+        "gltfIndex": 63
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0aabf": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@0aabf",
+      "displayName": "",
+      "id": "0aabf",
+      "name": "WGT-rig_head.002-64.mesh",
+      "userData": {
+        "gltfIndex": 64
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fc7c7": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@fc7c7",
+      "displayName": "",
+      "id": "fc7c7",
+      "name": "WGT-rig_tweak_spine.032-65.mesh",
+      "userData": {
+        "gltfIndex": 65
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d2fd5": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@d2fd5",
+      "displayName": "",
+      "id": "d2fd5",
+      "name": "WGT-rig_thigh_parent.002-66.mesh",
+      "userData": {
+        "gltfIndex": 66
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0cb96": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@0cb96",
+      "displayName": "",
+      "id": "0cb96",
+      "name": "WGT-rig_thigh_fk.002-67.mesh",
+      "userData": {
+        "gltfIndex": 67
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "15e3e": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@15e3e",
+      "displayName": "",
+      "id": "15e3e",
+      "name": "WGT-rig_shin_fk.002-68.mesh",
+      "userData": {
+        "gltfIndex": 68
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "085f8": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@085f8",
+      "displayName": "",
+      "id": "085f8",
+      "name": "WGT-rig_foot_fk.002-69.mesh",
+      "userData": {
+        "gltfIndex": 69
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1db65": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@1db65",
+      "displayName": "",
+      "id": "1db65",
+      "name": "WGT-rig_toe.002-70.mesh",
+      "userData": {
+        "gltfIndex": 70
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0257a": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@0257a",
+      "displayName": "",
+      "id": "0257a",
+      "name": "WGT-rig_thigh_ik.002-71.mesh",
+      "userData": {
+        "gltfIndex": 71
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0115c": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@0115c",
+      "displayName": "",
+      "id": "0115c",
+      "name": "WGT-rig_thigh_ik_target.002-72.mesh",
+      "userData": {
+        "gltfIndex": 72
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b7ddd": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@b7ddd",
+      "displayName": "",
+      "id": "b7ddd",
+      "name": "WGT-rig_foot_ik.001-73.mesh",
+      "userData": {
+        "gltfIndex": 73
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2b755": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@2b755",
+      "displayName": "",
+      "id": "2b755",
+      "name": "WGT-rig_VIS_thigh_ik_pole.002-74.mesh",
+      "userData": {
+        "gltfIndex": 74
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bfdf0": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@bfdf0",
+      "displayName": "",
+      "id": "bfdf0",
+      "name": "WGT-rig_thigh_tweak.004-75.mesh",
+      "userData": {
+        "gltfIndex": 75
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1d0bc": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@1d0bc",
+      "displayName": "",
+      "id": "1d0bc",
+      "name": "WGT-rig_thigh_tweak.005-76.mesh",
+      "userData": {
+        "gltfIndex": 76
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0e161": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@0e161",
+      "displayName": "",
+      "id": "0e161",
+      "name": "WGT-rig_shin_tweak.004-77.mesh",
+      "userData": {
+        "gltfIndex": 77
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6c8ee": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@6c8ee",
+      "displayName": "",
+      "id": "6c8ee",
+      "name": "WGT-rig_shin_tweak.005-78.mesh",
+      "userData": {
+        "gltfIndex": 78
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "39e8b": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@39e8b",
+      "displayName": "",
+      "id": "39e8b",
+      "name": "WGT-rig_foot_tweak.004-79.mesh",
+      "userData": {
+        "gltfIndex": 79
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "01af0": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@01af0",
+      "displayName": "",
+      "id": "01af0",
+      "name": "WGT-rig_foot_tweak.005-80.mesh",
+      "userData": {
+        "gltfIndex": 80
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a2a46": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@a2a46",
+      "displayName": "",
+      "id": "a2a46",
+      "name": "WGT-rig_toe_tweak.002-81.mesh",
+      "userData": {
+        "gltfIndex": 81
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "96d4a": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@96d4a",
+      "displayName": "",
+      "id": "96d4a",
+      "name": "WGT-rig_foot_heel_ik.002-82.mesh",
+      "userData": {
+        "gltfIndex": 82
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eab60": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@eab60",
+      "displayName": "",
+      "id": "eab60",
+      "name": "WGT-rig_thigh_parent.002-83.mesh",
+      "userData": {
+        "gltfIndex": 83
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "08b55": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@08b55",
+      "displayName": "",
+      "id": "08b55",
+      "name": "WGT-rig_thigh_fk.002-84.mesh",
+      "userData": {
+        "gltfIndex": 84
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "21aee": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@21aee",
+      "displayName": "",
+      "id": "21aee",
+      "name": "WGT-rig_shin_fk.002-85.mesh",
+      "userData": {
+        "gltfIndex": 85
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8e73b": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@8e73b",
+      "displayName": "",
+      "id": "8e73b",
+      "name": "WGT-rig_foot_fk.002-86.mesh",
+      "userData": {
+        "gltfIndex": 86
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "278ad": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@278ad",
+      "displayName": "",
+      "id": "278ad",
+      "name": "WGT-rig_toe.002-87.mesh",
+      "userData": {
+        "gltfIndex": 87
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3cf3b": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@3cf3b",
+      "displayName": "",
+      "id": "3cf3b",
+      "name": "WGT-rig_thigh_ik.002-88.mesh",
+      "userData": {
+        "gltfIndex": 88
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9031a": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@9031a",
+      "displayName": "",
+      "id": "9031a",
+      "name": "WGT-rig_thigh_ik_target.002-89.mesh",
+      "userData": {
+        "gltfIndex": 89
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e8339": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@e8339",
+      "displayName": "",
+      "id": "e8339",
+      "name": "WGT-rig_foot_ik.003-90.mesh",
+      "userData": {
+        "gltfIndex": 90
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5dd74": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@5dd74",
+      "displayName": "",
+      "id": "5dd74",
+      "name": "WGT-rig_VIS_thigh_ik_pole.002-91.mesh",
+      "userData": {
+        "gltfIndex": 91
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cd604": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@cd604",
+      "displayName": "",
+      "id": "cd604",
+      "name": "WGT-rig_thigh_tweak.004-92.mesh",
+      "userData": {
+        "gltfIndex": 92
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5ea7a": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@5ea7a",
+      "displayName": "",
+      "id": "5ea7a",
+      "name": "WGT-rig_thigh_tweak.005-93.mesh",
+      "userData": {
+        "gltfIndex": 93
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "887c6": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@887c6",
+      "displayName": "",
+      "id": "887c6",
+      "name": "WGT-rig_shin_tweak.004-94.mesh",
+      "userData": {
+        "gltfIndex": 94
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f49e2": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@f49e2",
+      "displayName": "",
+      "id": "f49e2",
+      "name": "WGT-rig_shin_tweak.005-95.mesh",
+      "userData": {
+        "gltfIndex": 95
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b874b": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@b874b",
+      "displayName": "",
+      "id": "b874b",
+      "name": "WGT-rig_foot_tweak.004-96.mesh",
+      "userData": {
+        "gltfIndex": 96
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "464e3": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@464e3",
+      "displayName": "",
+      "id": "464e3",
+      "name": "WGT-rig_foot_tweak.005-97.mesh",
+      "userData": {
+        "gltfIndex": 97
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "05f1f": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@05f1f",
+      "displayName": "",
+      "id": "05f1f",
+      "name": "WGT-rig_toe_tweak.002-98.mesh",
+      "userData": {
+        "gltfIndex": 98
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3a8f6": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@3a8f6",
+      "displayName": "",
+      "id": "3a8f6",
+      "name": "WGT-rig_foot_heel_ik.002-99.mesh",
+      "userData": {
+        "gltfIndex": 99
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d1c5": {
+      "importer": "gltf-mesh",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@8d1c5",
+      "displayName": "",
+      "id": "8d1c5",
+      "name": "WGT-rig_root.002-100.mesh",
+      "userData": {
+        "gltfIndex": 100
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "246e3": {
+      "importer": "gltf-animation",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@246e3",
+      "displayName": "",
+      "id": "246e3",
+      "name": "rig|walking.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.2916666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "f1394": {
+      "importer": "gltf-skeleton",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@f1394",
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 261
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5e49e": {
+      "importer": "gltf-embeded-image",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@5e49e",
+      "displayName": "",
+      "id": "5e49e",
+      "name": "base_color_texture-0.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ef396": {
+      "importer": "gltf-embeded-image",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@ef396",
+      "displayName": "",
+      "id": "ef396",
+      "name": "base_color_texture-1.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "649a4": {
+      "importer": "gltf-embeded-image",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@649a4",
+      "displayName": "",
+      "id": "649a4",
+      "name": "normalmap_texture-2.image",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0a1ef": {
+      "importer": "texture",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@0a1ef",
+      "displayName": "",
+      "id": "0a1ef",
+      "name": "base_color_texture-0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "dc8aaa48-107d-49b8-9d7e-e606413faeed@5e49e"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "05da8": {
+      "importer": "texture",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@05da8",
+      "displayName": "",
+      "id": "05da8",
+      "name": "base_color_texture-1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "dc8aaa48-107d-49b8-9d7e-e606413faeed@ef396"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7b4fa": {
+      "importer": "texture",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@7b4fa",
+      "displayName": "",
+      "id": "7b4fa",
+      "name": "normalmap_texture-2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "dc8aaa48-107d-49b8-9d7e-e606413faeed@649a4"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b4e6b": {
+      "importer": "gltf-material",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@b4e6b",
+      "displayName": "",
+      "id": "b4e6b",
+      "name": "Material.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eb540": {
+      "importer": "gltf-material",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@eb540",
+      "displayName": "",
+      "id": "eb540",
+      "name": "cowtexture.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "712d1": {
+      "importer": "gltf-scene",
+      "uuid": "dc8aaa48-107d-49b8-9d7e-e606413faeed@712d1",
+      "displayName": "",
+      "id": "712d1",
+      "name": "cow.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "dc8aaa48-107d-49b8-9d7e-e606413faeed@5e49e"
+      },
+      {
+        "name": "base_color_texture",
+        "uri": "dc8aaa48-107d-49b8-9d7e-e606413faeed@ef396"
+      },
+      {
+        "name": "normalmap_texture",
+        "uri": "dc8aaa48-107d-49b8-9d7e-e606413faeed@649a4"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "rig|walking",
+        "duration": 1.2916666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "rig|walking",
+            "from": 0,
+            "to": 1.2916666269302368,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "dc8aaa48-107d-49b8-9d7e-e606413faeed@712d1",
+    "assetFinder": {
+      "meshes": [
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@7fbf7",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@782d8",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@4083c",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@087e3",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@9b11a",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@71705",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@a22b7",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@0b144",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@ce2bf",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@e1946",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@078e5",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@03a8c",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@a742c",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@7b28c",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@32749",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@f7387",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@844e1",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@0952b",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@e4bec",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@2fdb3",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@5a6e4",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@f3a0c",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@8a887",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@6d2b8",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@e6b0c",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@ad097",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@cf4f3",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@197e0",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@72f81",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@da5b3",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@2ab60",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@dfcb0",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@ef762",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@a0c7c",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@10789",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@cf0a4",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@c7759",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@b7bdf",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@1d133",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@7ae76",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@f41f0",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@1e1e8",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@18e83",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@1d8bf",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@e1b62",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@2bc31",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@1e1b5",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@4b4fb",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@878ed",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@8f18a",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@f495d",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@2c7db",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@999ea",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@2611e",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@91a96",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@47dbd",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@b250f",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@19fcf",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@4b43d",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@aa8bf",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@47c61",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@df6a0",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@e9ce9",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@c1ebf",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@0aabf",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@fc7c7",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@d2fd5",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@0cb96",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@15e3e",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@085f8",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@1db65",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@0257a",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@0115c",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@b7ddd",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@2b755",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@bfdf0",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@1d0bc",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@0e161",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@6c8ee",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@39e8b",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@01af0",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@a2a46",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@96d4a",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@eab60",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@08b55",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@21aee",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@8e73b",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@278ad",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@3cf3b",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@9031a",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@e8339",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@5dd74",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@cd604",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@5ea7a",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@887c6",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@f49e2",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@b874b",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@464e3",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@05f1f",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@3a8f6",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@8d1c5"
+      ],
+      "skeletons": [
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@30732",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@f1394"
+      ],
+      "textures": [
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@0a1ef",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@05da8",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@7b4fa"
+      ],
+      "materials": [
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@b4e6b",
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@eb540"
+      ],
+      "scenes": [
+        "dc8aaa48-107d-49b8-9d7e-e606413faeed@712d1"
+      ]
+    }
+  }
+}

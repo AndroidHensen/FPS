@@ -1,0 +1,93 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8f201848-e42d-4f1e-b515-c538722dc97d",
+  "files": [],
+  "subMetas": {
+    "26004": {
+      "importer": "gltf-mesh",
+      "uuid": "8f201848-e42d-4f1e-b515-c538722dc97d@26004",
+      "displayName": "",
+      "id": "26004",
+      "name": "SpruceTree1_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c31aa": {
+      "importer": "gltf-material",
+      "uuid": "8f201848-e42d-4f1e-b515-c538722dc97d@c31aa",
+      "displayName": "",
+      "id": "c31aa",
+      "name": "SpruceTreeLeaf.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d6c94": {
+      "importer": "gltf-material",
+      "uuid": "8f201848-e42d-4f1e-b515-c538722dc97d@d6c94",
+      "displayName": "",
+      "id": "d6c94",
+      "name": "SpruceTreeTrunk.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "247ed": {
+      "importer": "gltf-scene",
+      "uuid": "8f201848-e42d-4f1e-b515-c538722dc97d@247ed",
+      "displayName": "",
+      "id": "247ed",
+      "name": "SpruceTree1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "8f201848-e42d-4f1e-b515-c538722dc97d@247ed",
+    "assetFinder": {
+      "meshes": [
+        "8f201848-e42d-4f1e-b515-c538722dc97d@26004"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "8f201848-e42d-4f1e-b515-c538722dc97d@c31aa",
+        "8f201848-e42d-4f1e-b515-c538722dc97d@d6c94"
+      ],
+      "scenes": [
+        "8f201848-e42d-4f1e-b515-c538722dc97d@247ed"
+      ]
+    }
+  }
+}

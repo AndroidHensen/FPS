@@ -1,0 +1,76 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d8c84411-5979-4f98-8ebe-c45ec31c7799",
+  "files": [],
+  "subMetas": {
+    "97070": {
+      "importer": "gltf-scene",
+      "uuid": "d8c84411-5979-4f98-8ebe-c45ec31c7799@97070",
+      "displayName": "",
+      "id": "97070",
+      "name": "DeadSpruce2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "10dfa": {
+      "importer": "gltf-mesh",
+      "uuid": "d8c84411-5979-4f98-8ebe-c45ec31c7799@10dfa",
+      "displayName": "",
+      "id": "10dfa",
+      "name": "Cylinder.005.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dcbe2": {
+      "importer": "gltf-material",
+      "uuid": "d8c84411-5979-4f98-8ebe-c45ec31c7799@dcbe2",
+      "displayName": "",
+      "id": "dcbe2",
+      "name": "DeadSpruceTreeTrunk.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "d8c84411-5979-4f98-8ebe-c45ec31c7799@97070",
+    "assetFinder": {
+      "meshes": [
+        "d8c84411-5979-4f98-8ebe-c45ec31c7799@10dfa"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "d8c84411-5979-4f98-8ebe-c45ec31c7799@dcbe2"
+      ],
+      "scenes": [
+        "d8c84411-5979-4f98-8ebe-c45ec31c7799@97070"
+      ]
+    }
+  }
+}

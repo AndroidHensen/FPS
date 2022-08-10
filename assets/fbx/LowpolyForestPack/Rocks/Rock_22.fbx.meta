@@ -1,0 +1,76 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "05d8715f-8e2d-4258-8b13-f1ca93d01528",
+  "files": [],
+  "subMetas": {
+    "2e7eb": {
+      "importer": "gltf-mesh",
+      "uuid": "05d8715f-8e2d-4258-8b13-f1ca93d01528@2e7eb",
+      "displayName": "",
+      "id": "2e7eb",
+      "name": "Cube.008.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2c910": {
+      "importer": "gltf-material",
+      "uuid": "05d8715f-8e2d-4258-8b13-f1ca93d01528@2c910",
+      "displayName": "",
+      "id": "2c910",
+      "name": "Rock.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3a4e2": {
+      "importer": "gltf-scene",
+      "uuid": "05d8715f-8e2d-4258-8b13-f1ca93d01528@3a4e2",
+      "displayName": "",
+      "id": "3a4e2",
+      "name": "Rock_22.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "05d8715f-8e2d-4258-8b13-f1ca93d01528@3a4e2",
+    "assetFinder": {
+      "meshes": [
+        "05d8715f-8e2d-4258-8b13-f1ca93d01528@2e7eb"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "05d8715f-8e2d-4258-8b13-f1ca93d01528@2c910"
+      ],
+      "scenes": [
+        "05d8715f-8e2d-4258-8b13-f1ca93d01528@3a4e2"
+      ]
+    }
+  }
+}

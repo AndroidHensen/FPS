@@ -1,0 +1,182 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1a3752e0-a7c6-47ce-ab5c-367e4e521465",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "83807": {
+      "importer": "gltf-animation",
+      "uuid": "1a3752e0-a7c6-47ce-ab5c-367e4e521465@83807",
+      "displayName": "",
+      "id": "83807",
+      "name": "Armature|fly.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.9166666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "2f6d1": {
+      "importer": "gltf-mesh",
+      "uuid": "1a3752e0-a7c6-47ce-ab5c-367e4e521465@2f6d1",
+      "displayName": "",
+      "id": "2f6d1",
+      "name": "Cube.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "1a3752e0-a7c6-47ce-ab5c-367e4e521465@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 11
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "1a3752e0-a7c6-47ce-ab5c-367e4e521465@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "1a3752e0-a7c6-47ce-ab5c-367e4e521465@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "1a3752e0-a7c6-47ce-ab5c-367e4e521465@48b02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d4fb6": {
+      "importer": "gltf-material",
+      "uuid": "1a3752e0-a7c6-47ce-ab5c-367e4e521465@d4fb6",
+      "displayName": "",
+      "id": "d4fb6",
+      "name": "butterflytexture.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f3618": {
+      "importer": "gltf-scene",
+      "uuid": "1a3752e0-a7c6-47ce-ab5c-367e4e521465@f3618",
+      "displayName": "",
+      "id": "f3618",
+      "name": "butterfly.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "1a3752e0-a7c6-47ce-ab5c-367e4e521465@48b02"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Armature|fly",
+        "duration": 0.9166666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature|fly",
+            "from": 0,
+            "to": 0.9166666865348816,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "1a3752e0-a7c6-47ce-ab5c-367e4e521465@f3618",
+    "assetFinder": {
+      "meshes": [
+        "1a3752e0-a7c6-47ce-ab5c-367e4e521465@2f6d1"
+      ],
+      "skeletons": [
+        "1a3752e0-a7c6-47ce-ab5c-367e4e521465@438fe"
+      ],
+      "textures": [
+        "1a3752e0-a7c6-47ce-ab5c-367e4e521465@7d6ab"
+      ],
+      "materials": [
+        "1a3752e0-a7c6-47ce-ab5c-367e4e521465@d4fb6"
+      ],
+      "scenes": [
+        "1a3752e0-a7c6-47ce-ab5c-367e4e521465@f3618"
+      ]
+    }
+  }
+}

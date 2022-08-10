@@ -1,0 +1,76 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "53af8e4e-ebd2-4a5e-9776-fb51c6db08e7",
+  "files": [],
+  "subMetas": {
+    "faad7": {
+      "importer": "gltf-mesh",
+      "uuid": "53af8e4e-ebd2-4a5e-9776-fb51c6db08e7@faad7",
+      "displayName": "",
+      "id": "faad7",
+      "name": "Cylinder.003.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dcbe2": {
+      "importer": "gltf-material",
+      "uuid": "53af8e4e-ebd2-4a5e-9776-fb51c6db08e7@dcbe2",
+      "displayName": "",
+      "id": "dcbe2",
+      "name": "DeadSpruceTreeTrunk.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2ddef": {
+      "importer": "gltf-scene",
+      "uuid": "53af8e4e-ebd2-4a5e-9776-fb51c6db08e7@2ddef",
+      "displayName": "",
+      "id": "2ddef",
+      "name": "DeadSpruce1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "53af8e4e-ebd2-4a5e-9776-fb51c6db08e7@2ddef",
+    "assetFinder": {
+      "meshes": [
+        "53af8e4e-ebd2-4a5e-9776-fb51c6db08e7@faad7"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "53af8e4e-ebd2-4a5e-9776-fb51c6db08e7@dcbe2"
+      ],
+      "scenes": [
+        "53af8e4e-ebd2-4a5e-9776-fb51c6db08e7@2ddef"
+      ]
+    }
+  }
+}

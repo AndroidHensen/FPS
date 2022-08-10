@@ -1,0 +1,76 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3e9324c8-6730-4878-b835-054da8414653",
+  "files": [],
+  "subMetas": {
+    "b45a1": {
+      "importer": "gltf-mesh",
+      "uuid": "3e9324c8-6730-4878-b835-054da8414653@b45a1",
+      "displayName": "",
+      "id": "b45a1",
+      "name": "Cube.024.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2c910": {
+      "importer": "gltf-material",
+      "uuid": "3e9324c8-6730-4878-b835-054da8414653@2c910",
+      "displayName": "",
+      "id": "2c910",
+      "name": "Rock.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c16e7": {
+      "importer": "gltf-scene",
+      "uuid": "3e9324c8-6730-4878-b835-054da8414653@c16e7",
+      "displayName": "",
+      "id": "c16e7",
+      "name": "BigRock3.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "3e9324c8-6730-4878-b835-054da8414653@c16e7",
+    "assetFinder": {
+      "meshes": [
+        "3e9324c8-6730-4878-b835-054da8414653@b45a1"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "3e9324c8-6730-4878-b835-054da8414653@2c910"
+      ],
+      "scenes": [
+        "3e9324c8-6730-4878-b835-054da8414653@c16e7"
+      ]
+    }
+  }
+}

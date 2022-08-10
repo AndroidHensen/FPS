@@ -1,0 +1,93 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "563ebfab-2fe8-4bd7-9d2f-418841fcabd2",
+  "files": [],
+  "subMetas": {
+    "234d1": {
+      "importer": "gltf-mesh",
+      "uuid": "563ebfab-2fe8-4bd7-9d2f-418841fcabd2@234d1",
+      "displayName": "",
+      "id": "234d1",
+      "name": "OakTree1_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "19a15": {
+      "importer": "gltf-material",
+      "uuid": "563ebfab-2fe8-4bd7-9d2f-418841fcabd2@19a15",
+      "displayName": "",
+      "id": "19a15",
+      "name": "OakTreeTrunk.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6d6": {
+      "importer": "gltf-material",
+      "uuid": "563ebfab-2fe8-4bd7-9d2f-418841fcabd2@7d6d6",
+      "displayName": "",
+      "id": "7d6d6",
+      "name": "OakTreeLeaf.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8b44b": {
+      "importer": "gltf-scene",
+      "uuid": "563ebfab-2fe8-4bd7-9d2f-418841fcabd2@8b44b",
+      "displayName": "",
+      "id": "8b44b",
+      "name": "OakTree1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "563ebfab-2fe8-4bd7-9d2f-418841fcabd2@8b44b",
+    "assetFinder": {
+      "meshes": [
+        "563ebfab-2fe8-4bd7-9d2f-418841fcabd2@234d1"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "563ebfab-2fe8-4bd7-9d2f-418841fcabd2@19a15",
+        "563ebfab-2fe8-4bd7-9d2f-418841fcabd2@7d6d6"
+      ],
+      "scenes": [
+        "563ebfab-2fe8-4bd7-9d2f-418841fcabd2@8b44b"
+      ]
+    }
+  }
+}

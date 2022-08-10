@@ -1,0 +1,76 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9b1ad283-438b-4c16-87ba-4f8187fe4e83",
+  "files": [],
+  "subMetas": {
+    "ce9cf": {
+      "importer": "gltf-mesh",
+      "uuid": "9b1ad283-438b-4c16-87ba-4f8187fe4e83@ce9cf",
+      "displayName": "",
+      "id": "ce9cf",
+      "name": "Cube.023.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2c910": {
+      "importer": "gltf-material",
+      "uuid": "9b1ad283-438b-4c16-87ba-4f8187fe4e83@2c910",
+      "displayName": "",
+      "id": "2c910",
+      "name": "Rock.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2c918": {
+      "importer": "gltf-scene",
+      "uuid": "9b1ad283-438b-4c16-87ba-4f8187fe4e83@2c918",
+      "displayName": "",
+      "id": "2c918",
+      "name": "BigRock5.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "9b1ad283-438b-4c16-87ba-4f8187fe4e83@2c918",
+    "assetFinder": {
+      "meshes": [
+        "9b1ad283-438b-4c16-87ba-4f8187fe4e83@ce9cf"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "9b1ad283-438b-4c16-87ba-4f8187fe4e83@2c910"
+      ],
+      "scenes": [
+        "9b1ad283-438b-4c16-87ba-4f8187fe4e83@2c918"
+      ]
+    }
+  }
+}
